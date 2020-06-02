@@ -1,0 +1,11 @@
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\bin\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.deps.json
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\bin\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.runtimeconfig.json
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\bin\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.runtimeconfig.dev.json
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\bin\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.dll
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\bin\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.pdb
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\obj\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.csproj.CoreCompileInputs.cache
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\obj\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.AssemblyInfoInputs.cache
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\obj\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.AssemblyInfo.cs
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\obj\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.dll
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\obj\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.pdb
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\jeudontonestleheros.Core.Data\obj\Debug\netcoreapp2.1\jeudontonestleheros.Core.Data.csprojAssemblyReference.cache

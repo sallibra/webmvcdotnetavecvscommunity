@@ -1,0 +1,8 @@
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\ExempleJedis\bin\Debug\netcoreapp2.1\ExempleJedis.deps.json
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\ExempleJedis\bin\Debug\netcoreapp2.1\ExempleJedis.dll
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\ExempleJedis\bin\Debug\netcoreapp2.1\ExempleJedis.pdb
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\ExempleJedis\obj\Debug\netcoreapp2.1\ExempleJedis.csproj.CoreCompileInputs.cache
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\ExempleJedis\obj\Debug\netcoreapp2.1\ExempleJedis.AssemblyInfoInputs.cache
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\ExempleJedis\obj\Debug\netcoreapp2.1\ExempleJedis.AssemblyInfo.cs
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\ExempleJedis\obj\Debug\netcoreapp2.1\ExempleJedis.dll
+C:\Users\x666825\Desktop\Document\Formation_ASP-NET-CORE_C#_bis\webmvcdotnetavecvscommunity\ExempleJedis\obj\Debug\netcoreapp2.1\ExempleJedis.pdb
